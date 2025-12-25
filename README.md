@@ -39,6 +39,10 @@ The final deliverable is a **Power BI Dashboard (.pbix file)** that includes:
 
 Preview of the Dashboard: https://app.powerbi.com/view?r=eyJrIjoiNjdjYmYzYmYtZTkxZi00NDE4LTg3NzktNDk1MTMxZWU4YzQ1IiwidCI6IjBiMWRjYjE4LTI3NjYtNDFhOS04YWMxLTNiNDhmMWY3ZTUzOCJ9&pageName=439fc0bb037345c36c56
 
+| Mobile |
+|:---:|
+| <video src="Output/mobile.mp4" width="200" height="200" controls>
+
 ---
 ## Project Structure
 
